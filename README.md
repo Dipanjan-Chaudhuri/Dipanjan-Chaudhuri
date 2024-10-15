@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dipanjan-Chaudhuri
 - 👀 I’m interested in Physics, Astronomy and Coding (scientific computation)
-- 🌱 I’m currently learning the basics of astrophysical simulation and computation, and, Statistical Mechanics
+- 🌱 I’m currently learning the basics of astrophysical simulation and computation, and Statistical Mechanics
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me academic.dipanjan@gmail.com
 - 😄 Pronouns: He/Him
