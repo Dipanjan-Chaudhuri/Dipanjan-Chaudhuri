@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dipanjan-Chaudhuri
-- 👀 I’m interested in Physics, Astronomy and Coding (scientific computation)
+- 👀 I’m interested in Physics and Coding (scientific computation)
 - 🌱 I’m currently learning the basics of particle simulation and computation, and Statistical Mechanics of thermalization.
 - 💞️ I’m looking to collaborate and learn more about N-Body Simulations and its implications in various systems.
 - 📫 How to reach me academic.dipanjan@gmail.com
