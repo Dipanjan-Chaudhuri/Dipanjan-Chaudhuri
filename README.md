@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Dipanjan-Chaudhuri
 - 👀 I’m interested in Physics and Coding (scientific computation)
-- 🌱 I’m currently learning the basics of particle simulation and computation, BEC and Statistical Mechanics of thermalization in non-equilibrium systems.
 - 💞️ I’m looking to collaborate and learn more about Machine Learning implications in quantum many-body physics.
-- 📫 How to reach me academic.dipanjan@gmail.com
+- 📫 Reach me academic.dipanjan@gmail.com
 - 😄 Pronouns: He/Him
 <!---
 Dipanjan-Chaudhuri/Dipanjan-Chaudhuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
